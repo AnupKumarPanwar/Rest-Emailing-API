@@ -18,7 +18,7 @@ Step2 : Open Google OAuth2.0 Playground.
 You will obtain refreshToken & accessToken on this step at Google OAuth2.0 Playground.
 Open the page from https://developers.google.com/oauthplayground, then click the gear button on the right-top.
 
-
+![alt text](http://2.bp.blogspot.com/-G_ASnkKaEHE/UbjH6PiG1RI/AAAAAAAALNs/CsMiKc25fvk/s1600/Screen+Shot+2013-06-12+at+12.04.32+PM.png)
 
 Set your client ID & client secret that obtained on step2, and select "Access token location:" as "Authorization header w/ Bearer prefix". Then close it.
 
