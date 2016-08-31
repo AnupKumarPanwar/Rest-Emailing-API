@@ -1,0 +1,15 @@
+{
+  "name": "youthcanvas",
+  "version": "1.0.0",
+  "description": "youthcanvas nodemailer",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "Anup Kumar Panwar",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^0.7.1"
+  }
+}
