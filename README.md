@@ -36,3 +36,19 @@ You can get your refresh token.
 Step4 : Replace the  details
 Now change the line number 28, 19, 20 with the corresponding data that you obtained from the above steps.
 
+
+
+
+
+
+Now run the server with :
+			Node server.js
+
+Acces the API in the following format :
+			Host/email/verificationCode
+Eg:
+			Localhost/1anuppanwar@gmail.com/1234
+			
+
+ 
+
